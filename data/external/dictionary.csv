@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+total_bill,Valor total da conta,quantitativa,contínua
+tip,Gorjeta entregue ao garçom,quantitativa,contínua
+sex,Gênero da pessoa pagante,qualitativa,nominal
+smoker,Se o cliente é fumante ou não fumante,qualitativa,nominal
+day,Dia da semana,qualitativa,cíclica
+time,Se é almoço ou jantar,qualitativa,nominal
+size,Tamanho do grupo de pessoas que frequentam o restaurante,quantitativa,discreta
